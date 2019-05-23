@@ -64,3 +64,6 @@ for (var k in myObject) {
 forEach(callbackfn: Function, thisArg ? : any)
 every(callbackfn: Function, thisArg ? : any)
 some(callbackfn: Function, thisArg ? : any)
+
+
+22222222222222
