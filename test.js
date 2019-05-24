@@ -74,3 +74,4 @@ some(callbackfn: Function, thisArg ? : any)
 99999999999
 11111111111
 55555555555
+666666666
